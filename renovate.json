@@ -14,8 +14,8 @@
         "pin",
         "digest"
       ],
-      "automerge": true,
-      "groupName": "go dependencies"
+      "groupName": "go dependencies",
+      "automerge": true
     }
   ]
 }
